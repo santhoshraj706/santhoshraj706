@@ -2,7 +2,7 @@
 
 Computer Science & Engineering student at Thiagarajar College of Engineering, Madurai.  
 CGPA: 8.98 | Expected Graduation: 2028
-- Portfolio: [profile-f0lyai7e2-tce1.vercel.app](https://profile-f0lyai7e2-tce1.vercel.app)
+- Portfolio: [profile-f0lyai7e2-tce1.vercel.app](https://profile-tce1.vercel.app/)
 ---
 
 ## 🛠️ Skills
