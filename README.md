@@ -10,13 +10,14 @@ CGPA: 8.98 | Expected Graduation: 2028
 **Languages:** C, C++, Java, Python  
 **Frontend:** HTML5, CSS3, JavaScript, React.js  
 **Backend:** Node.js, SQL, Supabase  
-**Tools:** VS Code, Gemini API, Vercel
+**Tools:** VS Code, Vercel
 
 ---
 
 ## 🚀 Projects
 
 - **Personal Finance Tracker** 🟢 *(Running Project)* — Web app to track income/expenses with budget goals and data visualizations. Built with React.js and Supabase.
+- **Password Analyser** — Cybersecurity tool to analyse password strength and detect breaches using the Have I Been Pwned (HIBP) API.
 - **Smart Attendance System using RFID** — RFID-based attendance system integrated with a web app and SQL database.
 
 ---
