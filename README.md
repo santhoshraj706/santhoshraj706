@@ -10,7 +10,7 @@ CGPA: 8.98 | Expected Graduation: 2028
 **Languages:** C, C++, Java, Python  
 **Frontend:** HTML5, CSS3, JavaScript, React.js  
 **Backend:** Node.js, SQL, Express 
-**Data Base":** MongoDB
+**Data Base:** MongoDB
 **Tools:** VS Code, Git
 
 ---
