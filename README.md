@@ -32,6 +32,7 @@ CGPA: 8.98 | Expected Graduation: 2028
 - 🇮🇳 **Smart India Hackathon 2025** — Selected among Final 40 teams at college level
 - 💻 **IEEE Xtreme 24-Hour Coding Competition** — World Rank **1947**
 - ⭐ **4000+ points** on SkillRack
+- First Prize in Hackrax'26 (cash price - 5000/- )
 
 ---
 
