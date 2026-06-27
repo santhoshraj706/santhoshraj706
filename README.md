@@ -68,6 +68,6 @@ CGPA: **8.98** | Expected Graduation: **2028**
 ## 📫 Connect
 
 - Email: santhoshrajtce@gmail.com
-- LinkedIn: [linkedin.com/in/santhosh-raj-t-07b605327](https://linkedin.com/in/santhosh-raj-t-07b605327)
+- LinkedIn: [linkedin.com/in/santhoshrajtcse](https://linkedin.com/in/santhosh-raj-t-07b605327)
 - SkillRack: [Profile](http://www.skillrack.com/profile/512992/29b67a42592d9cb4fe133fd03858a548e6a484b6)
 - Portfolio: [santhoshrajt-portfolio.vercel.app](https://santhoshrajt-portfolio.vercel.app/)
