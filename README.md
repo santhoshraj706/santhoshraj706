@@ -1,7 +1,7 @@
 # Hi, I'm Santhosh Raj T 👋
 
 Computer Science & Engineering student at **Thiagarajar College of Engineering, Madurai**.  
-CGPA: **8.98** | Expected Graduation: **2028**
+CGPA: **8.92** | Expected Graduation: **2028**
 
 - Portfolio: [Link](https://santhoshrajt-portfolio.vercel.app/)
 
