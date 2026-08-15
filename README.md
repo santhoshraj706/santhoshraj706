@@ -54,16 +54,16 @@ Software Engineering  ×  Full Stack  ×  AI/ML  ×  DSA  ×  Problem Solving
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=santhoshraj706&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=santhoshraj706&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=86400" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhoshraj706&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshraj706&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=santhoshraj706&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshraj706&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=86400" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshraj706&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshraj706&theme=tokyo-night&hide_border=true&area=true&cache_seconds=86400" alt="Contribution Graph" />
 </p>
 
 ---
